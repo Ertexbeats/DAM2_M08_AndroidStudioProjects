@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/WalterBlack"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:text="Blackjack"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bGameActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:animateLayoutChanges="true"
+        android:background="#9D97A1"
+        android:elevation="4dp"
+        android:text="Game Activity"
+        android:textColor="#FFFFFF"
+        android:translationZ="2dp" />
+
+    <Button
+        android:id="@+id/bConfigActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:animateLayoutChanges="true"
+        android:background="#9D97A1"
+        android:elevation="4dp"
+        android:text="Config Activity"
+        android:textColor="#FFFFFF"
+        android:translationZ="2dp" />
+</LinearLayout>

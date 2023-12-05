@@ -1,0 +1,35 @@
+
+n
+java:S1192‰"KDefine a constant instead of duplicating this literal "background" 3 times.(Έό΅Τύÿÿÿÿ8λ»ÒΑ1
+J
+java:S1604c"(Make this anonymous inner class a lambda(¶¶Βωÿÿÿÿ8‹λ»ÒΑ1
+E
+java:S1604s"(Make this anonymous inner class a lambda(Χ¦‚8‹λ»ÒΑ1
+J
+java:S1604y"(Make this anonymous inner class a lambda(³Ο‘ϊÿÿÿÿ8‹λ»ÒΑ1
+K
+java:S1604Κ"(Make this anonymous inner class a lambda(ρ ψϋÿÿÿÿ8λ»ÒΑ1
+F
+java:S1604Ο"(Make this anonymous inner class a lambda(„¬έ™8λ»ÒΑ1
+s	java:S116"RRename this field "SetName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ψΗ¤ύÿÿÿÿ8Ϋλ»ÒΑ1
+t	java:S116"SRename this field "SetMoney" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ψΗ¤ύÿÿÿÿ8Ϋλ»ÒΑ1
+p	java:S116"TRename this field "SsbMinBet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ϋ»8άλ»ÒΑ1
+w	java:S116"[Rename this field "StvMinBetDisplay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ηΎξ8άλ»ÒΑ1
+t	java:S116"XRename this field "SrgBackground" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ς‰ώ8άλ»ÒΑ1
+t	java:S116"SRename this field "SrbGreen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ιΠΨψÿÿÿÿ8άλ»ÒΑ1
+t	java:S116"SRename this field "SrbBrown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ιΠΨψÿÿÿÿ8άλ»ÒΑ1
+q	java:S116"VRename this field "ScbShowLogo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ΛO8άλ»ÒΑ1
+t	java:S116"SRename this field "SbCancel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΤΖ­Θÿÿÿÿÿ8άλ»ÒΑ1
+p	java:S116"ORename this field "SbOk" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΤΖ­Θÿÿÿÿÿ8άλ»ÒΑ1
+}	java:S116 "\Rename this field "SsbMinBetListener" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ώ°δϊÿÿÿÿ8άλ»ÒΑ1
+	java:S116!"`Rename this field "SrgBackgroundListener" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ημΉζψÿÿÿÿ8έλ»ÒΑ1
+o	java:S116""TRename this field "MENU_GAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΞΣΜR8έλ»ÒΑ1
+p	java:S116#"TRename this field "MENU_EXIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(χ΅·Ύ8έλ»ÒΑ1
+H
+java:S1659"&Declare "SetMoney" on a separate line.(ψΗ¤ύÿÿÿÿ8ηλ»ÒΑ1
+c
+java:S1659"FDeclare "tvTittle1" and all following declarations on a separate line.(ηΎξ8ηλ»ÒΑ1
+H
+java:S1659"&Declare "SrbBrown" on a separate line.(™ιΠΨψÿÿÿÿ8ηλ»ÒΑ1
+D
+java:S1659""Declare "SbOk" on a separate line.(ΤΖ­Θÿÿÿÿÿ8ηλ»ÒΑ1

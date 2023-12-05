@@ -1,0 +1,33 @@
+
+‹
+java:S1319M"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ýúþŒýÿÿÿÿ
+†
+java:S1319Q"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Þåð´
+€
+java:S1319u"eThe type of "Cards" should be an interface such as "List" rather than the implementation "ArrayList".(†ðÑ³ûÿÿÿÿ
+|
+java:S1319‡"eThe type of "Cards" should be an interface such as "List" rather than the implementation "ArrayList".(¡èþê
+k	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ðÑ³ûÿÿÿÿ
+g	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡èþê
+r
+java:S1488¦"[Immediately return this expression instead of assigning it to the temporary variable "num".(þøûü
+[
+java:S1659"@Declare "bet" and all following declarations on a separate line.(ž£ºÒûÿÿÿÿ
+D
+java:S1659")Declare "dealerCards" on a separate line.(òÓ—§ùÿÿÿÿ
+V
+java:S1854'";Remove this useless assignment to local variable "dPoints".(½ã±¾øÿÿÿÿ
+B
+java:S1481$",Remove this unused "dPoints" local variable.(ç¼þ·
+Q	java:S125&"<This block of commented-out lines of code should be removed.(ôíøû
+B
+java:S1125x"'Remove the unnecessary boolean literal.(Ü£­ùÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(ûÝÕÓùÿÿÿÿ
+C
+java:S1125Š"'Remove the unnecessary boolean literal.(Ü£­ùÿÿÿÿ
+E
+java:S2140—")Use "java.util.Random.nextInt()" instead.(ý’í·úÿÿÿÿ
+8	java:S131˜""Add a default case to this switch.(’ÎÁÄ
+@
+java:S2140¦")Use "java.util.Random.nextInt()" instead.(þøûü

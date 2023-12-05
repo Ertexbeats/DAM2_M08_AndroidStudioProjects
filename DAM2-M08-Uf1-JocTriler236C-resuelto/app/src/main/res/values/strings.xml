@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Joc Triler 23</string>
+    <string name="start">Start</string>
+    <string name="win">You win!!!</string>
+    <string name="lose">You lose!!!</string>
+    <string name="start_game">Press Button to start the game</string>
+    <string name="winplay">You WIN the game</string>
+    <string name="restartgame">Restart the game</string>
+    <string name="playing">You\'re Playing</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameCardsSeven</string>
+    <string name="title"><![CDATA[Game 7 & 1/2]]></string>
+    <string name="restart_game">Restart Game</string>
+    <string name="points">Points:</string>
+    <string name="intents">Number Intents:</string>
+</resources>
