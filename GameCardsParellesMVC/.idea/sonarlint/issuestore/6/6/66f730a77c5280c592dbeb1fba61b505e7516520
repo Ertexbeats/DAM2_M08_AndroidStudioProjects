@@ -1,0 +1,15 @@
+
+J
+java:S3740X"/Provide the parametrized type for this generic.(†óšŸÿÿÿÿÿ
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÂ¥ùÿÿÿÿ8–åÑÃ1
+E
+java:S1066%"/Merge this if statement with the enclosing one.(ù¶ÊÙ
+‹
+java:S1319X"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(†óšŸÿÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ôÿÍûÿÿÿÿ
+@
+java:S1197\"*Move the array designators [] to the type.(ÈšÉ÷
+@	java:S106`"+Replace this use of System.out by a logger.(¹™Ÿí
+@	java:S106b"+Replace this use of System.out by a logger.(§©›Ÿ
